@@ -163,10 +163,3 @@ Debate_Bot2_main/
 - Focused on impactful learning experiences
 
 ---
-
-# 📄 License
-MIT License - Open source for educational purposes
-
----
-
-**Ready for IIT Delhi Hackathon Submission & Real-World Use!** 🚀
