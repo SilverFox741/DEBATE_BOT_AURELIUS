@@ -130,7 +130,7 @@ Debate_Bot2_main/
 
 ---
 
-# 📈 Performance & Metrics
+# Performance & Metrics
 - **Build Size**: ~234KB (68KB gzipped)
 - **Load Time**: < 2 seconds
 - **AI Response Time**: < 5 seconds
@@ -155,7 +155,7 @@ Debate_Bot2_main/
 
 ---
 
-# 👥 Team
+# Team
 **AI Debate Champions**
 - Team - Kartik Phadale, Tanmay Pansare andSarthak Dhonde
 - Built with passion for debate education
