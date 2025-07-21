@@ -1,6 +1,6 @@
 # AI Debate Practice System - Demo Guide
 
-## 🎯 Quick Start Demo
+## Quick Start Demo
 
 ### Step 1: API Setup
 1. Get a free Gemini API key from [Google AI Studio](https://makersuite.google.com/app/apikey)
