@@ -26,7 +26,7 @@
 
 ### Step 5: Live Debate
 1. Start your speech when it's your turn
-2. Type your arguments in real-time
+2. Type/Speak your arguments in real-time
 3. Watch AI opponents respond contextually
 4. Experience the full parliamentary debate format
 
@@ -36,32 +36,31 @@
 3. Analyze clash-by-clash results
 4. Get actionable improvement suggestions
 
-## 🏆 Key Features to Demonstrate
+## 🏆 Key Features
 
 ### 1. Mathematical Judging Algorithm
-- Show the weighted clash analysis
-- Explain how each argument is scored
-- Demonstrate bias prevention mechanisms
+- weighted clash analysis
+- each argument is scored on set parameters
+- bias prevention mechanisms
 
 ### 2. AI Speech Quality
-- Show contextual responses to user speeches
-- Demonstrate skill level differentiation
-- Highlight role-specific content generation
+- contextual responses to user speeches
+- skill level differentiation
+- role-specific content generation
 
 ### 3. Real-time Interaction
-- Demonstrate live debate simulation
-- Show typing effects and timing
-- Highlight pause/resume functionality
+- live debate simulation
+- typing effects and timing
 
 ### 4. Comprehensive Feedback
-- Show 6-dimensional performance analysis
-- Demonstrate actionable improvement areas
-- Highlight key moments identification
+- 6-dimensional performance analysis
+- actionable improvement areas
+- key moments identification
 
 ### 5. Modern UI/UX
-- Show responsive design
-- Demonstrate smooth animations
-- Highlight intuitive navigation
+- responsive design
+- smooth animations
+- intuitive navigation
 
 ## 🎮 Sample Debate Flow
 
@@ -77,7 +76,7 @@
 - Deputy Opposition: Extend opposition arguments
 - Opposition Whip: Summarize opposition case
 
-## 📊 Expected Results
+## Results
 
 ### Beginner Level:
 - Simple, clear arguments
@@ -97,26 +96,6 @@
 - Exceptional logical coherence
 - Score range: 85-95
 
-## 🏅 Judging Criteria Alignment
-
-### Track A: Debate Learning & Practice
-- ✅ **Educational Value (30%)**: Comprehensive case preparation and feedback
-- ✅ **Gamification Effectiveness (25%)**: Progress tracking and achievement system
-- ✅ **User Experience (20%)**: Modern, intuitive interface
-- ✅ **Technical Implementation (15%)**: Advanced AI and mathematical algorithms
-- ✅ **Scalability and Adaptability (10%)**: Modular, extensible design
-
-### Track B: Live Simulated Mock Debates
-- ✅ **Transcription Accuracy (20%)**: Real-time speech capture
-- ✅ **Case Preparation Quality (5%)**: AI-generated strategic content
-- ✅ **AI Debate Speech Quality (15%)**: Contextual, role-specific responses
-- ✅ **Interactivity (5%)**: Live engagement features
-- ✅ **Skill Level Differentiation (15%)**: Three difficulty levels
-- ✅ **UI (10%)**: Modern, responsive design
-- ✅ **Judging Quality and Feedback Relevance (15%)**: Mathematical algorithm
-- ✅ **Multi-format Support (5%)**: Extensible debate formats
-- ✅ **System Performance (10%)**: Optimized performance
-
 ## 🚀 Innovation Highlights
 
 1. **Mathematical Judging Algorithm**: Unique weighted clash analysis
@@ -135,16 +114,9 @@
 
 ## 🎯 Demo Tips
 
-1. **Start with Beginner Level**: Show the system's accessibility
-2. **Demonstrate Skill Progression**: Show Intermediate and Advanced levels
-3. **Highlight Mathematical Algorithm**: Explain the scoring system
-4. **Show Real-time Features**: Demonstrate live interaction
-5. **Emphasize Educational Value**: Show comprehensive feedback
+1. **Beginner Level**: Shows the system's accessibility
+2. **Skill Progression**: Check Intermediate and Advanced levels
+3. **Mathematical Algorithm**: Comprehensive scoring system
+4. **Real-time Features**:live interaction
+5. **Educational Value**:comprehensive feedback
 
-## 🏆 Conclusion
-
-This demo showcases a fully functional, production-ready AI debate practice system that addresses real educational challenges while providing an engaging, modern user experience. The system is ready for immediate deployment and has significant potential for impact in debate education.
-
----
-
-**Ready for IIT Delhi Hackathon Demo** 🚀 
