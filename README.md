@@ -109,12 +109,12 @@ Debate_Bot2_main/
 - **Bias Prevention**: Multiple evaluation passes
 
 ### Evaluation Criteria
-- **Argument Quality** (8.5/10)
-- **Logical Coherence** (8.0/10)
-- **Rhetorical Techniques** (7.5/10)
-- **Response to Opposition** (8.0/10)
-- **Structure & Time Management** (9.0/10)
-- **Delivery & Presentation** (8.5/10)
+- **Argument Quality** 
+- **Logical Coherence**
+- **Rhetorical Techniques**
+- **Response to Opposition** 
+- **Structure & Time Management**
+- **Delivery & Presentation**
 
 ---
 
@@ -139,18 +139,15 @@ Debate_Bot2_main/
 
 # 🎮 Demo Tips
 - Start with Beginner level to show accessibility
-- Demonstrate skill progression (Intermediate, Advanced)
+- Test out skill progression (Intermediate, Advanced)
 - Highlight mathematical scoring and feedback
-- Show real-time features and transcript download
-- Emphasize educational value and actionable feedback
+- Test real-time features and transcript download
+- Check full functionality and actionable feedback
 
 ---
 
 # 🚀 Future Enhancements
-- **Voice Recognition**: Speech-to-text for natural interaction
 - **Multiplayer Support**: Real-time collaborative debates
-- **Advanced Analytics**: Detailed performance tracking
-- **Custom Motions**: User-generated topics
 - **Mobile App**: Native iOS/Android
 - **Tabbycat Integration**: Tournament management
 
@@ -158,6 +155,7 @@ Debate_Bot2_main/
 
 # 👥 Team
 **AI Debate Champions**
+- Team - Kartik Phadale, Tanmay Pansare andSarthak Dhonde
 - Built with passion for debate education
 - Leveraging cutting-edge AI technology
 - Focused on impactful learning experiences
