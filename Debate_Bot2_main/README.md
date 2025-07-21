@@ -14,6 +14,10 @@ cd Debate_Bot2_main
 
 # Install dependencies
 npm install
+OR (If above command doesn't work)
+npm i --legacy-peer-deps
+OR (If it still doesn't work)
+npm install --force
 
 # Start development server
 npm run dev
