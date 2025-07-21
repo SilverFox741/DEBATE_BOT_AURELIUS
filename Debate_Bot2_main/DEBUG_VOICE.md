@@ -65,15 +65,7 @@ window.voiceService?.speak('Test message',
 - Check browser console for errors
 
 ## Browser Compatibility
-
-| Browser | Speech Recognition | Speech Synthesis | Notes |
-|---------|-------------------|------------------|-------|
-| Chrome | ✅ Full Support | ✅ Full Support | Best compatibility |
-| Edge | ✅ Full Support | ✅ Full Support | Good compatibility |
-| Firefox | ⚠️ Limited | ✅ Full Support | May require HTTPS |
-| Safari | ⚠️ Limited | ✅ Full Support | Limited recognition |
-| Mobile Chrome | ✅ Full Support | ✅ Full Support | Good mobile support |
-| Mobile Safari | ⚠️ Limited | ✅ Full Support | Limited recognition |
+Works best on Google Chrome/ Microsoft Edge
 
 ## Debug Console Commands
 
