@@ -4,7 +4,7 @@ This document describes the comprehensive voice input and output features integr
 
 ## Overview
 
-I've enabled the application to now include advanced speech-to-text and text-to-speech functionality, enabling users to:
+We've enabled the application to now include advanced speech-to-text and text-to-speech functionality, enabling users to:
 - Speak their debate speeches instead of typing
 - Listen to AI-generated speeches
 - Get real-time transcription with error correction
