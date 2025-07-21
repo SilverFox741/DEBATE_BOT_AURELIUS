@@ -1,5 +1,5 @@
 # Voice Functionality Debugging Guide
-
+Since there is a possibilty of Vocie features not working on some devices, We've devised this guide to help users through any issues they may face
 ## Quick Debug Steps
 
 ### 1. Check Browser Support
