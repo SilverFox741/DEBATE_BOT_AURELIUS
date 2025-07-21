@@ -1,6 +1,6 @@
 # AI Debate Practice System
 
-## 🚀 Quick Start & Setup
+## Quick Start & Setup
 
 ### Prerequisites
 - **Node.js 18+**
@@ -36,7 +36,7 @@ The built files will be in the `dist/` directory, ready for deployment.
 
 ---
 
-# 🏆 Project Overview
+# Project Overview
 
 ## Problem Statement
 Traditional debate practice is limited by access to skilled opponents, inconsistent feedback, lack of structured progression, and difficulty tracking improvement. Our system solves these with AI-powered, real-time, skill-adaptive debate simulation and mathematical judging.
@@ -50,7 +50,7 @@ Traditional debate practice is limited by access to skilled opponents, inconsist
 
 ---
 
-# 🎯 Key Features
+# Key Features
 
 - **AI-Generated Case Prep**: Strategic arguments, rebuttals, evidence
 - **Skill-Based Learning**: Beginner, Intermediate, Advanced
@@ -63,7 +63,7 @@ Traditional debate practice is limited by access to skilled opponents, inconsist
 
 ---
 
-# 🧑‍💻 User Journey & Demo Flow
+# User Journey & Demo Flow
 
 1. **API Setup**: Enter Gemini API key
 2. **Motion Selection**: Choose from 8+ pre-built or custom motions
@@ -75,7 +75,7 @@ Traditional debate practice is limited by access to skilled opponents, inconsist
 
 ---
 
-# 🛠️ Technical Architecture
+# Technical Architecture
 
 - **Frontend**: React 18 + TypeScript
 - **Styling**: Tailwind CSS
@@ -102,7 +102,7 @@ Debate_Bot2_main/
 
 ---
 
-# 📊 Mathematical Judging Algorithm
+# Mathematical Judging Algorithm
 
 - **Clash Identification**: AI finds major argument conflicts
 - **Weight Assignment**: Each clash gets an importance score (1-10)
@@ -120,7 +120,7 @@ Debate_Bot2_main/
 
 ---
 
-# 🏅 Innovation Highlights
+# Innovation Highlights
 
 1. **Mathematical Judging**: Unique weighted clash analysis
 2. **Real-time AI Adaptation**: Contextual, role-specific responses
@@ -139,7 +139,7 @@ Debate_Bot2_main/
 
 ---
 
-# 🎮 Demo Tips
+# Demo Tips
 - Start with Beginner level to show accessibility
 - Test out skill progression (Intermediate, Advanced)
 - Highlight mathematical scoring and feedback
@@ -148,7 +148,7 @@ Debate_Bot2_main/
 
 ---
 
-# 🚀 Future Enhancements
+# Future Enhancements
 - **Multiplayer Support**: Real-time collaborative debates
 - **Mobile App**: Native iOS/Android
 - **Tabbycat Integration**: Tournament management
